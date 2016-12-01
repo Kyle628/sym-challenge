@@ -1,5 +1,5 @@
 #dang this wasn't actually my solution. This is what I was working on before I realized
-#that they said they defined a tree class
+#that they said they defined a tree class and I forgot to copy what I actually submitted back into here
 T = (5, (3, (20, None, None), (21, None, None)), (10, (1, None, None), None))
 def solution(T):
     root_value = T[0]
